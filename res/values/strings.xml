@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">GCMFilePush Client</string>
+  <string name="device_id_message">Your device ID is</string>
+</resources>
